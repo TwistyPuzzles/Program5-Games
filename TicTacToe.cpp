@@ -19,7 +19,7 @@ cout <<  "Choice?" << endl;
 cin >> choice;
 
 if(choice == 1) {
-    cout << "Sorry, cannot play without friends. Go make some :)      **Not Done**" << endl;
+    cout << "Sorry, cannot play without friends. Go make some :)" << endl;
 }
 
 if(choice == 2) {
